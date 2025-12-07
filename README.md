@@ -46,15 +46,6 @@ python main.py
   - Carona Solidária (0.15 kg CO2/km)
   - Compostagem (0.4 kg CO2/kg)
 
-### Interface Moderna
-- Design visual aprimorado com cores
-- Tela maior (1600x900) para melhor visualização
-- Validação automática de entrada
-- Relatório detalhado com cards coloridos
-- Cálculo em tempo real
-- Barras de progresso para compensação
-- 3 botões principais: Calcular, Relatório e Compensação
-
 ## 🛠️ Tecnologias
 
 - Python 3.x
@@ -70,20 +61,6 @@ src/
 ├── utils/index.py       # Lógica de cálculo
 └── data/fatores.json    # Fatores de emissão
 ```
-
-## 📚 Documentação Completa
-
-- **PRD.md** - Product Requirements Document (detalhes técnicos)
-- **APS.md** - Requisitos do projeto APS
-
-## 🎯 Implementações Realizadas
-
-✅ Cálculo de emissões com 9 fatores  
-✅ Sistema de compensação de créditos  
-✅ Interface gráfica moderna  
-✅ Relatório detalhado  
-✅ Validação de entrada  
-✅ Tratamento de erros
 
 ## 📖 Referências
 
